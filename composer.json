@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Royalcms\\Component\\Contracts\\": ""
+            "Royalcms\\Component\\Contracts\\": "Royalcms/Component/Contracts"
         }
     },
     "extra": {
